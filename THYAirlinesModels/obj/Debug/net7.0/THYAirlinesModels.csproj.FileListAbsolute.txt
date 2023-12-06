@@ -1,0 +1,12 @@
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\bin\Debug\net7.0\THYAirlinesModels.deps.json
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\bin\Debug\net7.0\THYAirlinesModels.dll
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\bin\Debug\net7.0\THYAirlinesModels.pdb
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.csproj.AssemblyReference.cache
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.AssemblyInfoInputs.cache
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.AssemblyInfo.cs
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.csproj.CoreCompileInputs.cache
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.dll
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\refint\THYAirlinesModels.dll
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\THYAirlinesModels.pdb
+C:\832 Energy Technology Consulting Logo\QueryChainSource\EB SourceCode\EBBuildAPIClient\BuildDBTHYAirlines\THYAirlinesModels\obj\Debug\net7.0\ref\THYAirlinesModels.dll

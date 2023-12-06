@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EBBuildClient" Version="1.0.106" />
+    <PackageReference Include="ZstdSharp.Port" Version="0.7.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConfigurationRegistry\ConfigurationRegistry.csproj" />
+    <ProjectReference Include="..\THYAirlinesModels\THYAirlinesModels.csproj" />
+  </ItemGroup>
+
+</Project>
