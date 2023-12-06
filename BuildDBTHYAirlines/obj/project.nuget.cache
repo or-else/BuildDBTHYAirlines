@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+Z6lrmOGu69cUiQPppy/fAypMWWk++muDHZkzTmtQ0IfYn8skdGN0ZT86ojI3KXigKgHq81bXd0e1A3nG1IgAw==",
+  "dgSpecHash": "JTD5vFMmSzQmacoSuihKaIFyQQ6Gkk62+3jg7aq511RwC3UzvhOcBr2P9g84/d6LZA8IYrURP8A7djA24uSKNA==",
   "success": true,
   "projectFilePath": "C:\\832 Energy Technology Consulting Logo\\QueryChainSource\\EB SourceCode\\EBBuildAPIClient\\BuildDBTHYAirlines\\BuildDBTHYAirlines\\BuildDBTHYAirlines.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Owner\\.nuget\\packages\\ebbuildclient\\1.0.106\\ebbuildclient.1.0.106.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\ebbuildclient\\1.0.107\\ebbuildclient.1.0.107.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\messagepack\\2.1.90\\messagepack.2.1.90.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\messagepack.annotations\\2.1.90\\messagepack.annotations.2.1.90.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

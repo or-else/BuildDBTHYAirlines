@@ -9,7 +9,7 @@
       "BuildDBTHYAirlines/1.0.0": {
         "dependencies": {
           "ConfigurationRegistry": "1.0.0",
-          "EBBuildClient": "1.0.106",
+          "EBBuildClient": "1.0.107",
           "THYAirlinesModels": "1.0.0",
           "THYAirlinesProvider": "1.0.0"
         },
@@ -17,7 +17,7 @@
           "BuildDBTHYAirlines.dll": {}
         }
       },
-      "EBBuildClient/1.0.106": {
+      "EBBuildClient/1.0.107": {
         "dependencies": {
           "Microsoft.AspNetCore": "2.2.0",
           "Microsoft.AspNetCore.SignalR.Client": "7.0.2",
@@ -29,8 +29,8 @@
         },
         "runtime": {
           "lib/net6.0/EBBuildClient.Core.dll": {
-            "assemblyVersion": "1.0.106.0",
-            "fileVersion": "1.0.106.0"
+            "assemblyVersion": "1.0.107.0",
+            "fileVersion": "1.0.107.0"
           }
         }
       },
@@ -1255,7 +1255,7 @@
       },
       "THYAirlinesModels/1.0.0": {
         "dependencies": {
-          "EBBuildClient": "1.0.106"
+          "EBBuildClient": "1.0.107"
         },
         "runtime": {
           "THYAirlinesModels.dll": {}
@@ -1264,7 +1264,7 @@
       "THYAirlinesProvider/1.0.0": {
         "dependencies": {
           "ConfigurationRegistry": "1.0.0",
-          "EBBuildClient": "1.0.106",
+          "EBBuildClient": "1.0.107",
           "THYAirlinesModels": "1.0.0",
           "ZstdSharp.Port": "0.7.3"
         },
@@ -1280,12 +1280,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EBBuildClient/1.0.106": {
+    "EBBuildClient/1.0.107": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CHm2yzLdKCOtnX8TtAqHUSkN/5cV9WRqCgDgOTFX9X8Bf1lJaJMAlNV+sYO7mMUsOSbIDZEWjODSh+1YcB3l/A==",
-      "path": "ebbuildclient/1.0.106",
-      "hashPath": "ebbuildclient.1.0.106.nupkg.sha512"
+      "sha512": "sha512-0LlmOnyR6Z5n52AHSUP8/hClYu0kiRioyUoz9d2nzWWPk6RNWbJ8cxez/m5dKx1Ei6HhSTW92079K3YTdrEUCg==",
+      "path": "ebbuildclient/1.0.107",
+      "hashPath": "ebbuildclient.1.0.107.nupkg.sha512"
     },
     "MessagePack/2.1.90": {
       "type": "package",
