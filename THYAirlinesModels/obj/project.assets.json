@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "EBBuildClient/1.0.107": {
+      "EBBuildClient/1.0.108": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore": "2.2.0",
@@ -1713,15 +1713,15 @@
     }
   },
   "libraries": {
-    "EBBuildClient/1.0.107": {
-      "sha512": "0LlmOnyR6Z5n52AHSUP8/hClYu0kiRioyUoz9d2nzWWPk6RNWbJ8cxez/m5dKx1Ei6HhSTW92079K3YTdrEUCg==",
+    "EBBuildClient/1.0.108": {
+      "sha512": "4aEXmwGAji2P72SIzb6rOou9CBfl9LC0aCtFmA/rQ4cjgqQk4as1Vu+ohIUM9V3Jm3Q9ueGITRRYxetxsxsx7A==",
       "type": "package",
-      "path": "ebbuildclient/1.0.107",
+      "path": "ebbuildclient/1.0.108",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "docs/README.md",
-        "ebbuildclient.1.0.107.nupkg.sha512",
+        "ebbuildclient.1.0.108.nupkg.sha512",
         "ebbuildclient.nuspec",
         "images/favicon.png",
         "lib/net6.0/EBBuildClient.Core.dll",
@@ -4560,14 +4560,13 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "EBBuildClient >= 1.0.107"
+      "EBBuildClient >= 1.0.108"
     ]
   },
   "packageFolders": {
     "C:\\Users\\Owner\\.nuget\\packages\\": {},
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -4582,15 +4581,13 @@
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -4619,7 +4616,7 @@
         "dependencies": {
           "EBBuildClient": {
             "target": "Package",
-            "version": "[1.0.107, )"
+            "version": "[1.0.108, )"
           }
         },
         "imports": [

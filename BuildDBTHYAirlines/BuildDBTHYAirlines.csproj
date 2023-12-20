@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EBBuildClient" Version="1.0.107" />
+    <PackageReference Include="EBBuildClient" Version="1.0.108" />
   </ItemGroup>
 
   <ItemGroup>
