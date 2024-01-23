@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "EBBuildClient/1.0.108": {
+      "EBBuildClient/1.0.109": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore": "2.2.0",
@@ -1713,15 +1713,15 @@
     }
   },
   "libraries": {
-    "EBBuildClient/1.0.108": {
-      "sha512": "4aEXmwGAji2P72SIzb6rOou9CBfl9LC0aCtFmA/rQ4cjgqQk4as1Vu+ohIUM9V3Jm3Q9ueGITRRYxetxsxsx7A==",
+    "EBBuildClient/1.0.109": {
+      "sha512": "79cj//Icoo5wmFKoEUvAObPXXDN6ORf8xKN8t7If5I3UMYGuWfHh1/4zt7hVvGdXDpX2VmiXr9I3M/dYdfuFvQ==",
       "type": "package",
-      "path": "ebbuildclient/1.0.108",
+      "path": "ebbuildclient/1.0.109",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "docs/README.md",
-        "ebbuildclient.1.0.108.nupkg.sha512",
+        "ebbuildclient.1.0.109.nupkg.sha512",
         "ebbuildclient.nuspec",
         "images/favicon.png",
         "lib/net6.0/EBBuildClient.Core.dll",
@@ -4560,7 +4560,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "EBBuildClient >= 1.0.108"
+      "EBBuildClient >= 1.0.109"
     ]
   },
   "packageFolders": {
@@ -4616,7 +4616,7 @@
         "dependencies": {
           "EBBuildClient": {
             "target": "Package",
-            "version": "[1.0.108, )"
+            "version": "[1.0.109, )"
           }
         },
         "imports": [
