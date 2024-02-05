@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v7.0": {
       "THYAirlinesModels/1.0.0": {
         "dependencies": {
-          "EBBuildClient": "1.0.109"
+          "EBBuildClient": "1.0.110"
         },
         "runtime": {
           "THYAirlinesModels.dll": {}
         }
       },
-      "EBBuildClient/1.0.109": {
+      "EBBuildClient/1.0.110": {
         "dependencies": {
           "Microsoft.AspNetCore": "2.2.0",
           "Microsoft.AspNetCore.SignalR.Client": "7.0.2",
@@ -26,8 +26,8 @@
         },
         "runtime": {
           "lib/net6.0/EBBuildClient.Core.dll": {
-            "assemblyVersion": "1.0.109.0",
-            "fileVersion": "1.0.109.0"
+            "assemblyVersion": "1.0.110.0",
+            "fileVersion": "1.0.110.0"
           }
         }
       },
@@ -777,12 +777,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EBBuildClient/1.0.109": {
+    "EBBuildClient/1.0.110": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-79cj//Icoo5wmFKoEUvAObPXXDN6ORf8xKN8t7If5I3UMYGuWfHh1/4zt7hVvGdXDpX2VmiXr9I3M/dYdfuFvQ==",
-      "path": "ebbuildclient/1.0.109",
-      "hashPath": "ebbuildclient.1.0.109.nupkg.sha512"
+      "sha512": "sha512-jXVuCyf2pA0JaD5AwWOFgcnJlc3EPfpRYK9mSJpAPxEOWvjHcQP6m5rD1+ZVICRySG+urLXj0vXpMUWeThBrqw==",
+      "path": "ebbuildclient/1.0.110",
+      "hashPath": "ebbuildclient.1.0.110.nupkg.sha512"
     },
     "MessagePack/2.1.90": {
       "type": "package",

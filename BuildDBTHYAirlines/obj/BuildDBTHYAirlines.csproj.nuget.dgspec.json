@@ -61,7 +61,7 @@
           "dependencies": {
             "EBBuildClient": {
               "target": "Package",
-              "version": "[1.0.109, )"
+              "version": "[1.0.110, )"
             }
           },
           "imports": [
@@ -311,7 +311,7 @@
           "dependencies": {
             "EBBuildClient": {
               "target": "Package",
-              "version": "[1.0.109, )"
+              "version": "[1.0.110, )"
             }
           },
           "imports": [
@@ -388,7 +388,7 @@
           "dependencies": {
             "EBBuildClient": {
               "target": "Package",
-              "version": "[1.0.109, )"
+              "version": "[1.0.110, )"
             },
             "ZstdSharp.Port": {
               "target": "Package",
